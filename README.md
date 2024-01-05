@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **https://rthemindakirulapana.onrender.com/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing](https://drive.google.com/file/d/1R-HlzrFG2TOoV4JTi2SaftysSUwKw1ws/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pavithra-chamod-j-477447252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra chamod j" height="30" width="40" /></a>
